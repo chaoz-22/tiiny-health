@@ -4,6 +4,8 @@
 
 Tiiny Health is a single-file browser app for interpreting lab results, comparing checkups, and preparing questions for a doctor. Open it locally, connect it to your Tiiny, and stream an English Markdown analysis. No installation or build step is required.
 
+![Tiiny Health interface showing checkup input and medical analysis](./tiiny-health.png)
+
 ## Quick start
 
 1. Open [index.html](./index.html) on GitHub, download the raw file, and open the saved file in a modern browser.
