@@ -9,7 +9,7 @@ Tiiny Health is a single-file browser app for interpreting lab results, comparin
 ## Quick start
 
 1. Open [index.html](./index.html) on GitHub, download the raw file, and open the saved file in a modern browser.
-2. In **API settings**, keep the default base URL, `http://openai.api.tiiny/v1`, or enter your Tiiny device’s local address. Copy the API key from TiinyOS and paste it into the app.
+2. In **API settings**, keep the default base URL, `http://tiinyhost.local/v1`, or enter your Tiiny device’s local address. Copy the API key from TiinyOS and paste it into the app.
 3. Click **Connect**. The app discovers available models and selects a chat model automatically. Check the connection status for the model name.
 4. Enter a **Report title** and **Checkup date**. Upload a text-based PDF or paste the relevant lab results into **Report text**.
 5. Remove personal identifiers, check **I removed personal identifiers**, and click **Analyze Report**.
